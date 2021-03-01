@@ -1,0 +1,57 @@
+,Partido,Escolaridad,i Grupos Parlamentarios P,i Grupos Parlamentarios A,i de Grupo P,i de Grupo A,i Iniciante P,i Iniciante A,i Adherente P,i Adherente A,Total de Iniciativas Aprobadas,Total de Iniciativas Presentadas
+0,Encuentro Social,Carrera Trunca,0,0,5,1,6,0,11,0,1,22
+1,Encuentro Social,Doctorado,1,0,5,1,11,1,22,0,2,39
+2,Encuentro Social,Licenciatura,8,1,63,13,72,3,232,27,44,375
+3,Encuentro Social,Maestría,5,0,28,6,61,1,109,18,25,203
+4,Encuentro Social,Sin registros,1,1,14,3,19,0,40,5,9,74
+5,MORENA,Bachillerato,9,0,83,55,10,0,52,2,57,154
+6,MORENA,Carrera Trunca,13,2,352,221,35,0,197,18,241,597
+7,MORENA,Doctorado,4,0,127,71,23,1,68,3,75,222
+8,MORENA,Licenciatura,120,4,1511,1002,262,14,745,38,1058,2638
+9,MORENA,Maestría,46,3,594,387,142,6,488,30,426,1270
+10,MORENA,Primaria,1,0,30,20,8,0,11,1,21,50
+11,MORENA,Profesor Normalista,0,0,15,10,0,0,0,0,10,15
+12,MORENA,Secundaria,6,0,165,110,12,1,96,5,116,279
+13,MORENA,Sin Carrera Profesional,0,0,15,10,1,0,1,0,10,17
+14,MORENA,Sin registros,54,3,653,386,112,6,199,17,412,1018
+15,MORENA,Técnico,8,0,180,120,12,0,110,7,127,310
+16,Movimiento Ciudadano,Carrera Trunca,4,0,54,2,12,1,41,6,9,111
+17,Movimiento Ciudadano,Doctorado,3,0,54,2,2,0,45,4,6,104
+18,Movimiento Ciudadano,Licenciatura,49,0,405,15,169,7,422,54,76,1045
+19,Movimiento Ciudadano,Maestría,14,1,189,7,53,3,148,20,31,404
+20,Movimiento Ciudadano,Sin registros,2,0,27,1,8,0,17,1,2,54
+21,PAN,Carrera Trunca,2,0,26,1,5,0,78,3,4,111
+22,PAN,Doctorado,9,0,137,5,25,3,481,28,36,652
+23,PAN,Licenciatura,67,0,758,28,124,6,2453,144,178,3402
+24,PAN,Maestría,92,1,892,33,183,9,2917,179,222,4084
+25,PAN,Secundaria,3,0,28,1,2,0,83,6,7,116
+26,PAN,Sin registros,19,0,192,7,37,4,616,34,45,864
+27,PAN,Técnico,2,0,25,1,11,0,62,3,4,100
+28,PRD,Doctorado,4,0,75,2,9,0,16,1,3,104
+29,PRD,Licenciatura,11,1,120,3,56,2,25,2,8,212
+30,PRD,Maestría,2,0,40,1,14,0,4,0,1,60
+31,PRD,Sin registros,11,0,197,5,47,0,46,0,5,301
+32,PRI,Bachillerato,0,0,1,0,0,0,59,4,4,60
+33,PRI,Carrera Trunca,0,0,1,0,7,0,32,3,3,40
+34,PRI,Doctorado,13,0,7,0,48,2,242,20,22,310
+35,PRI,Licenciatura,9,1,14,0,50,6,414,31,38,487
+36,PRI,Maestría,3,0,18,0,111,7,670,47,54,802
+37,PRI,Secundaria,0,0,2,0,12,0,70,3,3,84
+38,PRI,Sin Carrera Profesional,6,0,1,0,6,0,48,3,3,61
+39,PRI,Sin registros,1,0,2,0,3,0,78,4,4,84
+40,PRI,Técnico,1,0,1,0,6,2,49,3,5,57
+41,PT,Bachillerato,0,0,4,0,6,0,6,1,1,16
+42,PT,Carrera Trunca,0,0,4,0,5,0,3,1,1,12
+43,PT,Doctorado,1,0,19,10,10,1,15,1,12,45
+44,PT,Licenciatura,15,3,66,2,101,8,202,24,37,384
+45,PT,Maestría,4,0,16,0,61,0,40,4,4,121
+46,PT,Secundaria,1,0,4,0,3,0,12,1,1,20
+47,PT,Sin registros,2,0,31,10,20,2,32,3,15,85
+48,PT,Técnico,1,0,20,11,3,0,4,0,11,28
+49,Partido Verde,Doctorado,25,1,29,2,1,0,15,0,3,70
+50,Partido Verde,Licenciatura,116,4,134,9,7,0,26,2,15,283
+51,Partido Verde,Maestría,81,4,110,7,20,3,100,6,20,311
+52,Partido Verde,Sin registros,11,0,22,1,17,5,5,0,6,55
+53,Sin Partido,Licenciatura,6,0,0,0,3,0,8,1,1,17
+54,Sin Partido,Maestría,1,0,22,1,0,0,3,0,1,26
+55,Sin Partido,Sin registros,3,0,22,1,0,0,5,0,1,30
